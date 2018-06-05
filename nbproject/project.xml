@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>ufo</name>
+=======
+            <name>Project</name>
+>>>>>>> 14856e4f09a8c927ef2a168e9b02403a9a6ad043
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
